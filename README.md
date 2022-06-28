@@ -6,5 +6,5 @@ AnyWho provides a free online people search directory where you can find people 
 AnyWho Bot :
 https://t.me/AnyWho_bot
 
-![AnyWho pic](https://user-images.githubusercontent.com/54961548/176185465-3d6b9599-8cdf-4a3f-8091-1d558dd17165.png)
+![AnyWho pic]((https://user-images.githubusercontent.com/54961548/176185465-3d6b9599-8cdf-4a3f-8091-1d558dd17165.png)|width=100)
 
